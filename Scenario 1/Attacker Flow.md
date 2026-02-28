@@ -28,3 +28,4 @@
     CnCServer->>BackendServer: Commands issued
     BackendServer->>CnCServer: Actions performed
     deactivate Attacker
+    

@@ -29,3 +29,4 @@ flowchart LR
     H[Command and Control] -->|Communicate with C&C server| H
     H[Command and Control] -->|Issue commands| L
     H[Actions on Objectives] -->|Steal sensitive data| M
+    
